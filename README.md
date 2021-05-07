@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lanec92
+- 👋 Hi, I’m Lane Carpenter
 - 👀 I’m interested in C# & C++ Development
-- 🌱 I’m currently about to graduate in May 2021 w/ a Bachelor's degree in Computer Science w/ minors in Biology & Mathematics
-- 💞️ I’m looking to collaborate on ...
-- 📫 Email me at carpentl@nsuok.edu 
+- 🌱 I gratudated with a Bachelor's degree in Computer Science w/ minors in Biology & Mathematics in May 2021
+- 📫 Email me at lanec92@gmail.com
 
 <!---
 lanec92/lanec92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
