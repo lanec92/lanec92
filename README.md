@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lane Carpenter
-- 👀 I’m interested in C# & C++ Development
+- 👀 I’m interested in iOS, Swift, Objectiv-C, C#
 - 🌱 I gratudated with a Bachelor's degree in Computer Science w/ minors in Biology & Mathematics in May 2021
 - 📫 Email me at lanec92@gmail.com
 
